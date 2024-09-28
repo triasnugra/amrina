@@ -1,3 +1,3 @@
-document.getElementById('login-btn').addEventListener('click', function() {
-    window.location.href = 'nextpage.html'; // Redirect to the next page
+document.getElementById('loginBtn').addEventListener('click', function() {
+    window.location.href = 'nextpage.html'; // Mengarahkan ke halaman berikutnya
 });
